@@ -1,0 +1,12 @@
+var first_number = 4;
+var second_number = 2;
+var third_number = 12;
+var fourth_number = 16;
+var add = first_number + first_number;
+var sub = third_number - first_number;
+var mult = first_number * second_number;
+var div = fourth_number / second_number;
+console.log(add);
+console.log(sub);
+console.log(mult);
+console.log(div);
